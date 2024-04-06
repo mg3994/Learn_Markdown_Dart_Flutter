@@ -1,0 +1,126 @@
+{
+  "en": {
+    "title": "Courses",
+    "allCourses": {
+    
+      "Markdown": {
+        "name": "Markdown",
+        "image": "assets/markdown_image.png"
+      },
+      "Dart": {
+        "name": "Dart",
+        "image": "assets/dart_image.png"
+      },
+      "Flutter": {
+        "name": "Flutter",
+        "image": "assets/flutter_image.png"
+      }
+    },
+  
+    "Markdown": {
+      "introduction": "Introduction to Markdown",
+      "syntax": "Markdown Syntax",
+      "usage": "Markdown Usage",
+      "examples": "Markdown Examples",
+      "tools": "Markdown Tools",
+      "extensions": "Markdown Extensions",
+      "github": "Markdown on GitHub",
+      "vscode": "Markdown in Visual Studio Code",
+      "blogging": "Blogging with Markdown",
+      "documentation": "Writing Documentation with Markdown"
+    },
+    "Dart": {
+      "introduction": "Introduction to Dart",
+      "basics": "Dart Basics",
+      "advanced": "Advanced Dart",
+      "usage": "Dart Usage",
+      "collections": "Dart Collections",
+      "functions": "Dart Functions",
+      "async": "Asynchronous Programming in Dart",
+      "exceptions": "Exception Handling in Dart",
+      "packages": "Using Packages in Dart",
+      "io": "Input/Output Operations in Dart",
+      "web": "Dart for Web Development",
+      "cli": "Building Command-Line Apps with Dart",
+      "testing": "Testing in Dart"
+    },
+    "Flutter": {
+      "introduction": "Introduction to Flutter",
+      "widgets": "Flutter Widgets",
+      "state_management": "Flutter State Management",
+      "animations": "Flutter Animations",
+      "routing": "Flutter Routing",
+      "testing": "Flutter Testing",
+      "localization": "Flutter Localization",
+      "http": "HTTP Requests in Flutter",
+      "database": "Working with Databases in Flutter",
+      "platform_channels": "Platform Channels in Flutter",
+      "performance": "Optimizing Performance in Flutter",
+      "deployment": "Deploying Flutter Apps",
+      "integration": "Integration Testing in Flutter",
+      "updates": "Handling App Updates in Flutter"
+    }
+  },
+  "hi": {
+    "title": "कोर्सेस",
+    "allCourses": {
+  
+      "Markdown": {
+        "name": "मार्कडाउन",
+        "image": "assets/markdown_image.png"
+      },
+      "Dart": {
+        "name": "डार्ट",
+        "image": "assets/dart_image.png"
+      },
+      "Flutter": {
+        "name": "फ़्लटर",
+        "image": "assets/flutter_image.png"
+      }
+    },
+  
+    "Markdown": {
+      "introduction": "मार्कडाउन का परिचय",
+      "syntax": "मार्कडाउन सिंटैक्स",
+      "usage": "मार्कडाउन उपयोग",
+      "examples": "मार्कडाउन उदाहरण",
+      "tools": "मार्कडाउन टूल्स",
+      "extensions": "मार्कडाउन एक्सटेंशन्स",
+      "github": "गिटहब पर मार्कडाउन",
+      "vscode": "विज़ुअल स्टूडियो कोड में मार्कडाउन",
+      "blogging": "मार्कडाउन के साथ ब्लॉगिंग",
+      "documentation": "मार्कडाउन के साथ दस्तावेज़ीकरण"
+    },
+    "Dart": {
+      "introduction": "डार्ट का परिचय",
+      "basics": "डार्ट मूलभूत",
+      "advanced": "उन्नत डार्ट",
+      "usage": "डार्ट उपयोग",
+      "collections": "डार्ट संग्रह",
+      "functions": "डार्ट फ़ंक्शन्स",
+      "async": "डार्ट में असिंक्रोनस प्रोग्रामिंग",
+      "exceptions": "डार्ट में छूट",
+      "packages": "डार्ट में पैकेज का उपयोग",
+      "io": "डार्ट में इनपुट/आउटपुट कार्य",
+      "web": "डार्ट के साथ वेब विकास",
+      "cli": "डार्ट के साथ कमांड लाइन एप्लिकेशन बनाना",
+      "testing": "डार्ट में टेस्टिंग"
+    },
+    "Flutter": {
+      "introduction": "फ़्लटर का परिचय",
+      "widgets": "फ़्लटर विजेट्स",
+      "state_management": "फ़्लटर स्टेट प्रबंधन",
+      "animations": "फ़्लटर एनिमेशन्स",
+      "routing": "फ़्लटर रूटिंग",
+      "testing": "फ़्लटर टेस्टिंग",
+      "localization": "फ़्लटर स्थानीयकरण",
+      "http": "फ़्लटर में HTTP अनुरोध",
+      "database": "फ़्लटर में डेटाबेस के साथ काम करना",
+      "platform_channels": "फ़्लटर में प्लेटफ़ॉर्म चैनल",
+      "performance": "फ़्लटर में प्रदर्शन को अनुकूलित करना",
+      "deployment": "फ़्लटर ऐप्स को डिप्लॉय करना",
+      "integration": "फ़्लटर में एकीकरण टेस्टिंग",
+      "updates": "फ़्लटर में एप्लिकेशन अपडेट का संचालन करना"
+    }
+  }
+}
